@@ -1,1 +1,1 @@
-Added patch notes functions
+“clipboard” text input shortcut added
