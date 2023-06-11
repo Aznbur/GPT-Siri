@@ -1,1 +1,1 @@
-“clipboard” text input shortcut added
+Added documentation (request made by u/rhematt) (https://reddit.com/r/shortcuts/comments/146ekkz/_/jnqb28b/?context=1)
