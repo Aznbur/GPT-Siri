@@ -1,1 +1,1 @@
-Fixed “Patch Notes” function
+Changed name to “EasyGPT” for RoutineHub
