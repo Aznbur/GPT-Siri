@@ -1,5 +1,1 @@
-- Changed icon and colour to green and used lightning symbol
-
-- Fixed clipboard quick shortcut not working
-
-- Fixed iOS 16 not being able to continue the conversation due to the “Run Shortcut” action working differently in iOS 17.
+Fixed articles shared via Safari giving an error
