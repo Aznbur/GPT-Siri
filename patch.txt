@@ -1,1 +1,4 @@
-Fixed articles shared via Safari giving an error
+-Fixed “Copy last interaction”
+-Fixed “View last interaction”
+-EasyGPT will address you by name in every response
+-Changed file structure - you may need to backup your chats
