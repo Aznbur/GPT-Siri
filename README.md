@@ -6,3 +6,7 @@ The shortcut needs **iOS 16.1** to be able to use. This is due to the fact that 
 
 # ⚠️‼️ KNOWN ISSUES ‼️⚠️
 On iOS 17, copy to clipboard doesn't work. **This is a Shortcut bug. Report this to the Feedback app.**
+
+# Download
+Go to the “latestversion.txt” file in the files section. Copy and paste the link and enjoy :)
+(note, updates will appear automatically, like this: 
