@@ -1,1 +1,1 @@
-Added weather
+Layed some groundwork for the external shortcut to be ran via Siri
