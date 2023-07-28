@@ -14,4 +14,4 @@ Go to the “latestversion.txt” file in the files section. Copy and paste the 
 
 updates will appear automatically, like this: 
 ![image](https://github.com/Aznbur/GPT-Siri/assets/89152597/5105d0fe-4655-4ba8-8345-bd96811de87a)
-(thanks mum for letting me burrow her phone!)
+(thanks mum for letting me borrow her phone!)
